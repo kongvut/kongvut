@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with Genius at work
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: kongvut@gmail.com
+- 📫 How to reach me: me@2my.xyz
 - 😄 Pronouns: react, ts, js, php
 - ⚡ Fun fact: **https://blog.2my.xyz**
 
