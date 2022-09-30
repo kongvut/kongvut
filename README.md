@@ -11,10 +11,8 @@
 
 ----
 
-<img align="center" src="https://github-readme-stats.bluenex.vercel.app/api?username=kongvut&theme=graywhite&count_private=true&show_icons=true" />
-
-<img align="center" src="https://github-readme-stats.bluenex.vercel.app/api/top-langs/?username=kongvut&theme=graywhite&count_private=true&show_icons=true&hide=openedge%20abl,html" />
-
+![](https://github-readme-stats.bluenex.vercel.app/api?username=kongvut&theme=graywhite&count_private=true&show_icons=true)
+![](https://github-readme-stats.bluenex.vercel.app/api/top-langs/?username=kongvut&theme=graywhite&count_private=true&show_icons=true&hide=openedge%20abl,html)
 
 ----
 
