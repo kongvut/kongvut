@@ -11,12 +11,10 @@
 
 ----
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.bluenex.vercel.app/api?username=kongvut&theme=graywhite&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.bluenex.vercel.app/api/top-langs/?username=kongvut&theme=graywhite&count_private=true&show_icons=true&hide=openedge%20abl,html" />
-</a>
+<img align="center" src="https://github-readme-stats.bluenex.vercel.app/api?username=kongvut&theme=graywhite&count_private=true&show_icons=true" />
+
+<img align="center" src="https://github-readme-stats.bluenex.vercel.app/api/top-langs/?username=kongvut&theme=graywhite&count_private=true&show_icons=true&hide=openedge%20abl,html" />
+
 
 ----
 
