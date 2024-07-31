@@ -16,4 +16,4 @@
 
 ----
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21uwoaheuiy4s5eb56wz34s3y&cover_image=false&theme=default)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21uwoaheuiy4s5eb56wz34s3y&cover_image=false&theme=default)
