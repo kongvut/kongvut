@@ -37,8 +37,8 @@
 └─────────────────────────────────────────────────────┘
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=kongvut&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&include_all_commits=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongvut&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&hide=openedge%20abl,html&langs_count=8" height="150" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=kongvut&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&include_all_commits=true&count_private=true" height="150" />
+<img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=kongvut&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&border_color=30363d&hide=openedge%20abl,html&langs_count=8" height="150" />
 
 ```
 ┌─────────────────────────────────────────────────────┐
