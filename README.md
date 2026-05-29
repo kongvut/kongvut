@@ -5,7 +5,7 @@ $ fastfetch
         |:_/ |           Dev:    kongvut sangkla
        //   \ \          Role:   software engineer
       (|     | )         Org:    ratchaphruek hospital pcl (rph)
-     /'\_   _/`\        Loc:    khon kaen, thailand
+     /'\_   _/`\         Loc:    khon kaen, thailand
      \___)=(___/         Web:    <a href="https://blog.2my.xyz">blog.2my.xyz</a>
                          Mail:   <a href="mailto:me@2my.xyz">me@2my.xyz</a>
                          Stack:  react  typescript  javascript  php
