@@ -48,7 +48,7 @@
 └─────────────────────────────────────────────────────┘
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21uwoaheuiy4s5eb56wz34s3y&cover_image=true&theme=default)](https://open.spotify.com/user/21uwoaheuiy4s5eb56wz34s3y)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21uwoaheuiy4s5eb56wz34s3y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=21uwoaheuiy4s5eb56wz34s3y&redirect=true)
 
 ```
 ─────────────────────────────────────────────────────
