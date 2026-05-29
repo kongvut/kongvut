@@ -1,19 +1,57 @@
-### Hi there 👋
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   kongvut sangkla  ·  he/him                        │
+│   software engineer                                 │
+│                                                     │
+│   ratchaphruek hospital pcl (rph)                   │
+│   khon kaen, thailand                               │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
-- 🔭 I’m currently working on **https://codestats.net/users/kongvut**
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate with Genius at work
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: me@2my.xyz
-- 😄 Pronouns: react, ts, js, php
-- ⚡ Fun fact: **https://blog.2my.xyz**
+```
+  currently   writing code & breaking things
+  pronouns    react · ts · js · php
+  reach me    me@2my.xyz
+  blog        blog.2my.xyz
+```
 
-----
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   $ cat ./tools                                     │
+│                                                     │
+│   ▸ javascript   ▸ typescript   ▸ react             │
+│   ▸ php          ▸ node.js      ▸ mysql             │
+│   ▸ docker       ▸ git          ▸ linux             │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
-![](https://github-readme-stats.bluenex.vercel.app/api?username=kongvut&theme=graywhite&count_private=true&show_icons=true)
-![](https://github-readme-stats.bluenex.vercel.app/api/top-langs/?username=kongvut&theme=graywhite&count_private=true&show_icons=true&hide=openedge%20abl,html)
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   $ cat ./stats                                     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
-----
+<img src="https://github-readme-stats.vercel.app/api?username=kongvut&show_icons=true&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongvut&layout=compact&theme=graywhite&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&hide=openedge%20abl,html" height="160" />
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21uwoaheuiy4s5eb56wz34s3y&cover_image=true&theme=default)
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   $ cat ./now-playing                               │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21uwoaheuiy4s5eb56wz34s3y&cover_image=true&theme=default)](https://open.spotify.com/user/21uwoaheuiy4s5eb56wz34s3y)
+
+```
+─────────────────────────────────────────────────────
+  blog.2my.xyz  ·  me@2my.xyz  ·  github.com/kongvut
+─────────────────────────────────────────────────────
+```
